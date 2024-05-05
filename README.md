@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carmensyl
+- 👋 Hi, I’m Carmen Lau!
 - 👀 I’m interested in web design and animation
-- 🌱 I’m currently learning javascript
+- 🌱 I learnt HTML, CSS, JavaScript, PHP, and Python. I want to put them into practice!
 - 💞️ I’m looking to collaborate on web design projects 
-- 📫 Reach me at sinyan_lau@yahoo.com.hk
+- 📫 Reach me at carmen9275@gmail.com
 - :rabbit: I like rabbits
 
 <!---
